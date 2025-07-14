@@ -5,8 +5,11 @@
 如果正常运行可以看到运行信息如：
 
 `INFO:     Started server process [3967680]`
+
 `INFO:     Waiting for application startup.`
+
 `INFO:     Application startup complete.`
+
 `INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)`
 
 此时，可以访问该端口，如在命令行使用：
